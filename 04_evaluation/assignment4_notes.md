@@ -2,8 +2,9 @@
 
 Goal: Measure whether the search engine is good.
 
+#-------------------#
 Pipeline:
-#--------------
+#-------------------#
 
 Query
 ↓
@@ -15,7 +16,9 @@ Ranking
 ↓
 Evaluation
 
-Confusion Matrix
+
+Confusion Matrix:
+
 
 TP = relevant and returned
 
